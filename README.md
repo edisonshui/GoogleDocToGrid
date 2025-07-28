@@ -36,3 +36,7 @@ OAuth 2.0 authorization flow in Java
 Parsing structured document content
 2D grid rendering and coordinate mapping
 Maven project structure and dependency management
+
+here are some sample links you can try (have to create your own copy and put in that url as the argument)
+https://docs.google.com/document/d/e/2PACX-1vTER-wL5E8YC9pxDx43gk8eIds59GtUUk4nJo_ZWagbnrH0NFvMXIw6VWFLpf5tWTZIT9P9oLIoFJ6A/pub
+https://docs.google.com/document/d/e/2PACX-1vRMx5YQlZNa3ra8dYYxmv-QIQ3YJe8tbI3kqcuC7lQiZm-CSEznKfN_HYNSpoXcZIV3Y_O3YoUB1ecq/pub
