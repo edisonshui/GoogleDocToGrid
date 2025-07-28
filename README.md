@@ -9,7 +9,9 @@ The input Google Doc must contain a table with three columns:
 
 Example:
 x-coordinate | Character | y-coordinate
+
 0            | █         | 0
+
 1            | ▀         | 1
 
 Prerequisites
