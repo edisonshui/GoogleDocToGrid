@@ -6,6 +6,7 @@ The input Google Doc must contain a table with three columns:
 1. x-coordinate (integer)
 2. Character (single visible character, such as █, ▀, etc.)
 3. y-coordinate (integer)
+
 Example:
 x-coordinate | Character | y-coordinate
 0            | █         | 0
